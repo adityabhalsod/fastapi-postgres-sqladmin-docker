@@ -1,0 +1,16 @@
+fastapi==0.110.0
+uvicorn[standard]==0.28.0
+
+# Async SQLAlchemy and driver
+sqlalchemy[asyncio]==2.0.29
+asyncpg==0.29.0
+
+# Pydantic for FastAPI
+pydantic==2.7.1
+
+# For admin panel (SQLAlchemy + FastAPI)
+sqladmin==0.16.0
+
+# Loading .env for local development (optional but recommended)
+python-dotenv==1.0.1
+

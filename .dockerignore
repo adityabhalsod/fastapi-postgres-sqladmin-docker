@@ -1,0 +1,8 @@
+# Ignore Python virtual environment folder created in app/
+app/env/
+# Optionally ignore any env folder anywhere
+env/
+**/env/
+# General Python ignores
+*.pyc
+__pycache__/
