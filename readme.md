@@ -43,7 +43,7 @@ docker-compose up --build
 ## FAQ
 
 - Browse and edit `/items/` via API or use the `/admin` panel.
-- For production, secure `/admin` with authentication (see [SQLAdmin docs](https://sqladmin.readthedocs.io/en/latest/authentication/)).
+- For production, secure `/admin` with authentication.
 
 **Enjoy!** 🚀
 
